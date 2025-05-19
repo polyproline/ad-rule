@@ -1,0 +1,6 @@
+cloud.video.taobao.com
+tbm-auth.alicdn.com
+tgc.cloudvideocdn.taobao.com
+video-sh.cloudvideocdn.taobao.com
+baikevideo.cdn.bcebos.com
+vd3.bdstatic.com
